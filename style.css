@@ -1,0 +1,98 @@
+.ear1{
+    border: 0.5px solid black;
+    height: 100px;
+    width: 50px;
+    background-color: pink;
+    border-radius: 60px 60px 0px 0px;
+    position: absolute;
+    left: 230px;
+}
+.ear2{
+    border: 0.5px solid black;
+    height: 100px;
+    width: 50px;
+    background-color: pink;
+    border-radius: 60px 60px 0px 0px;
+    position: absolute;
+    left: 330px;
+}
+.face{
+    border: 0.5px solid black;
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    border-radius: 100% 100% 100% 100%;
+    position: absolute;
+    top: 80px;
+    left: 205px;
+}
+.reye{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 100% 100% 100% 100%;
+    position: absolute;
+    top: 35px;
+    left: 35px;
+}
+.leye{
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 100% 100% 100% 100%;
+    position: absolute;
+    top: 35px;
+    right: 35px;
+}
+.lball{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 100% 100% 100% 100%;
+    position: absolute;
+    top: 9px;
+    right: 9px;
+}
+.rball{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 100% 100% 100% 100%;
+    position: absolute;
+    top: 9px;
+    right: 9px;
+}
+.nose{
+    border: 0.5px solid black;
+    height: 40px;
+    width: 80px;
+    background-color: red;
+    position: absolute;
+    top: 120px;
+    left: 60px; 
+    border-radius: 50px 50px 50px 50px;
+}
+.nostrill1{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 100% 100% 100% 100%;
+    position: absolute;
+    top: 8px;
+    right: 9px;
+}
+.nostrill2{
+    height: 20px;
+    width: 20px;
+    background-color: black;
+    border-radius: 100% 100% 100% 100%;
+    position: absolute;
+    top: 8px;
+    left: 9px;
+}
+.leye:hover{
+    transform: scale(1.5);
+}
+.reye:hover{
+    transform: scale(1.5);
+}
